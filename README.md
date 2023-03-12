@@ -4,4 +4,3 @@
 3) Set the path to the input Excel file
 4) Set the name of the output Excel file
 5) Run
-6) Saved on desktop as MacAddressDump
