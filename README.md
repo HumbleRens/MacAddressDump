@@ -1,4 +1,4 @@
-# MacAddressDump,
+# MacAddressDump
 1) Import excel file of computer list
 2) Import the Excel Module
 3) Set the path to the input Excel file
