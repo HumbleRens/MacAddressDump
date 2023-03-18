@@ -1,6 +1,7 @@
 # MacAddressDump
-1) Import excel file of computer list
-2) Import the Excel Module
-3) Set the path to the input Excel file
-4) Set the name of the output Excel file
-5) Run
+1) In the excel list set the first column as ComputerName
+2) Import excel file of computer list
+3) Import the Excel Module
+4) Set the path to the input Excel file
+5) Set the name of the output Excel file
+6) Run
